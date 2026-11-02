@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, we're BlitzHash ⚡
 
-<!--
-**blitzhash360-web/blitzhash360-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**The senior engineering team behind people who build with AI.**
 
-Here are some ideas to get you started:
+You built your app with Lovable, Bolt, Replit, Cursor or v0. We make sure it holds up in front of real users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Start** gives you a ready architecture before you build: auth, database, payments and hosting done right from day one.
+- **Check** audits your app after you build it, covering security, Supabase RLS, launch readiness, speed and scalability.
+- **Care** keeps it fast and secure after launch, and cuts your cloud bill with smart self-hosting.
+
+### What you'll find here
+We open-source the checklists, starters and tools we use on client work: Supabase hardening, RLS checks, self-hosting configs and launch checklists for AI-built apps. Each one credits the open-source projects it builds on.
+
+⭐ Star a repo if it saved you time, and open an issue if something breaks.
+
+### Connect
+[Website](https://blitzhash.com) · [X](https://x.com/blitzhash) · [YouTube](https://www.youtube.com/@blitzhash) · [Free assessment](https://blitzhash.com)
