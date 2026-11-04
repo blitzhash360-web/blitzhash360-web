@@ -14,4 +14,4 @@ We open-source the checklists, starters and tools we use on client work: Supabas
 ⭐ Star a repo if it saved you time, and open an issue if something breaks.
 
 ### Connect
-[Website](https://blitzhash.com) · [X](https://x.com/blitzhash) · [YouTube](https://www.youtube.com/@blitzhash) · [Free assessment](https://blitzhash.com)
+[Website](https://blitzhash.com) · [X](https://x.com/blitzhash) · [YouTube](https://www.youtube.com/@blitzhash) · [Free assessment](https://blitzhash.com) · [Free 15-min launch review](https://calendly.com/blitzhash360/free-15-min-launch-review)
